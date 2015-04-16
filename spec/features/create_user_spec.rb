@@ -34,4 +34,15 @@ describe "creating a user" do
       expect(page).to have_content "Password confirmation doesn't match Password"
     end
   end
+
+  context "" do
+
+    before do
+
+    end
+
+    it "" do
+
+    end
+  end
 end
